@@ -23,24 +23,10 @@
 .container2{
     -fx-background-color: rgba(255, 255, 255, 0.2);
     -fx-background-radius: 20;
-
+    -fx-background-color: #ff0404;
 }
 .container3{
     -fx-background-color: rgba(255, 255, 255, 0.2);
     -fx-background-radius: 20;
     -fx-background-color: #24ee2e;
 }
-.containersignup{
-    -fx-background-color: rgba(255, 255, 255, 0.2);
-    -fx-background-radius: 20;
-
-}
-.containerlabel{
-    -fx-background-color: rgba(255, 255, 255, 0.2);
-    -fx-background-color: #b2d8d8;
-}
-.default-color0.chart-pie { -fx-pie-color: #B0E0E6; }
-.default-color1.chart-pie { -fx-pie-color: #EE82EE; }
-
-.default-color0.chart-bar { -fx-bar-fill: #B0E0E6; }
-.default-color1.chart-bar { -fx-bar-fill: #EE82EE; }
